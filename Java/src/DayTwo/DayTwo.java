@@ -1,4 +1,4 @@
-package Java.DayTwo;
+package DayTwo;
 
 import java.util.Arrays;
 
