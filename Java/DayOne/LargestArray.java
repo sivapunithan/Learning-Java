@@ -1,4 +1,4 @@
-package DayOne;
+package Java.DayOne;
 
 public class LargestArray {
     public static void main (String[] args){
