@@ -1,3 +1,5 @@
+Day 5 completed at 03.12am 05-10-2025
+
 # 🧠 Learning Java Through Patterns & Logic
 
 This repository documents my **Java learning journey**, focused on loops, logic building, and pattern printing — from the ground up.  

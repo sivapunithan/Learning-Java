@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "File16",
+            "request": "launch",
+            "mainClass": "Day_6.File16",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "File15",
+            "request": "launch",
+            "mainClass": "Day_6.File15",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "File15",
             "request": "launch",
             "mainClass": "Day_5.File15",
