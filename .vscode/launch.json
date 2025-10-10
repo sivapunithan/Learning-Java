@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "File17",
+            "request": "launch",
+            "mainClass": "Day_7.File17",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "File16",
             "request": "launch",
             "mainClass": "Day_6.File16",
