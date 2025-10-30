@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Merge_Sorted_Array1",
+            "request": "launch",
+            "mainClass": "Arrays.Merge_Sorted_Array1",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Best_time_Buy_Sell_Stocks",
             "request": "launch",
             "mainClass": "Arrays.Best_time_Buy_Sell_Stocks",
