@@ -8,7 +8,7 @@ public class Best_time_Buy_Sell_Stocks {
             
             if (anyArray[i] < minValue){
                 minValue = anyArray[i];
-            }else {
+            }else {                                     // Here the else is there for if i found the new minimum i cant sell it on the same day of purchase 
                 int profit = anyArray[i] - minValue;
                 if (profit > maxProfit){
                     maxProfit = profit;
