@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Merge_Sorted_Arrays3",
+            "request": "launch",
+            "mainClass": "Arrays.Merge_Sorted_Arrays3",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Merge_Sorted_Array1",
             "request": "launch",
             "mainClass": "Arrays.Merge_Sorted_Array1",
