@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Missing_Number",
+            "request": "launch",
+            "mainClass": "Arrays.Missing_Number",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Move_Zeros",
             "request": "launch",
             "mainClass": "Arrays.Move_Zeros",
