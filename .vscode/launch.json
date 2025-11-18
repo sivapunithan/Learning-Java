@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum_Of_N_Numbers",
+            "request": "launch",
+            "mainClass": "Recursion.Sum_Of_N_Numbers",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Missing_Number",
             "request": "launch",
             "mainClass": "Arrays.Missing_Number",
