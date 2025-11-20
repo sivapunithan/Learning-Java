@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum_of_Odd_no",
+            "request": "launch",
+            "mainClass": "Recursion.Sum_of_Odd_no",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_all_NUmbers_Array",
+            "request": "launch",
+            "mainClass": "Recursion.Sum_of_all_NUmbers_Array",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Sum_Of_N_Numbers",
             "request": "launch",
             "mainClass": "Recursion.Sum_Of_N_Numbers",
