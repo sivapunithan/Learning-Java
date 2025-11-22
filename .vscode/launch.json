@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fib_Number",
+            "request": "launch",
+            "mainClass": "Recursion.Fib_Number",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "Power_Of_two",
+            "request": "launch",
+            "mainClass": "Recursion.Power_Of_two",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_using_recursion",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial_using_recursion",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Sum_of_Odd_no",
             "request": "launch",
             "mainClass": "Recursion.Sum_of_Odd_no",
