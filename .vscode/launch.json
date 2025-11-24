@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "SearchAndSorting.BinarySearch",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "Fib_Number",
             "request": "launch",
             "mainClass": "Recursion.Fib_Number",
