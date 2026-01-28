@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "SearchAndSorting.InsertionSort",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SearchAndSorting.SelectionSort",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "SearchAndSorting.BubbleSort",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "SearchAndSorting.MergeSort",
+            "projectName": "Learnings_ff311e86"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "SearchAndSorting.BinarySearch",
