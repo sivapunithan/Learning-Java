@@ -1,10 +1,7 @@
 package LinkedList;
 
-import java.util.HashSet;
-import java.util.Set;
-
-public class LinkedListCycle {
-
+public class FloydAlgorith {
+    
     private class Node {
         int val;
         Node next;
@@ -19,20 +16,21 @@ public class LinkedListCycle {
     private int size;
 
     private Boolean hasCycle(Node head) {
-        Node cur = head;
-        Set<Node> seenNodes = new HashSet<>();
-        while (cur != null) {
-            if (seenNodes.contains(cur)) {
-                return true;
-            }
-            seenNodes.add(cur);
-            cur = cur.next;
+       
+        Node fast = head;
+        Node slow = head;
+
+        while (fast != null && fast.next != null){
+           
+            fast = fast.next.next;
+            slow = slow.next;
+             if (fast == slow) return true;
         }
         return false;
     }
 
     public static void main(String[] args) {
-        LinkedListCycle list = new LinkedListCycle();
+        FloydAlgorith list = new FloydAlgorith();
         list.head = list.new Node(1);
         list.head.next = list.new Node(2);
         Node cycle = list.head.next;
