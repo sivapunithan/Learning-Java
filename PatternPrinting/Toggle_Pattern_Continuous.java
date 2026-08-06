@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File14 {
+public class Toggle_Pattern_Continuous {
     
     public static void main(String[] args) {
         int n =5;

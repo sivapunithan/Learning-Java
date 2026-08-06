@@ -1,4 +1,4 @@
-package Arrays;
+
 public class RevereseString {
 
     public static void revereseString (String[] s){

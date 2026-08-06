@@ -1,9 +1,9 @@
-package DayTwo;
+
 
 import java.util.Scanner;
 
 
-public class EvenOrOdd {
+public class Check_Even_Or_Odd {
 
     public static String CheckEvenOdd(int n){
     if (n%2==0){

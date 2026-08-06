@@ -1,8 +1,7 @@
-package Day_7;
 
 import java.util.Arrays;
 
-public class File17 {
+public class Remove_Duplicates_Sorted_Array {
 
     public static int[] Out(int[] anyArr){
     

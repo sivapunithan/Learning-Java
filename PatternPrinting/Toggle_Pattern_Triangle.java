@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File13 {
+public class Toggle_Pattern_Triangle {
     public static void main(String[] args) {
         int n = 5;
         for (int i=0; i<n; i++){

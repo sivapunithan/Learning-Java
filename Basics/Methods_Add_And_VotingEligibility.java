@@ -1,8 +1,8 @@
-package DayTwo;
+
 
 import java.util.Scanner;
 
-public class Methods {
+public class Methods_Add_And_VotingEligibility {
 
 
     public static int add (int x, int y){

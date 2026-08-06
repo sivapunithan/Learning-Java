@@ -1,4 +1,3 @@
-package Arrays;
 
 import java.util.Arrays;
 public class Merge_Sorted_Array1 {

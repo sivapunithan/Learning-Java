@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File8 {
+public class Number_Triangle_Increasing {
     public static void main(String[] args) {
         int n=5;
         for(int i=0; i<=n; i++){

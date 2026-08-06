@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File9 {
+public class Number_Triangle_RowNumberRepeated {
     public static void main(String[] args) {
         int n= 5;
         for (int i=1; i<=n; i++){

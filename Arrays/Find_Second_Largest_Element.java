@@ -1,6 +1,6 @@
-package Day_4;
 
-public class File3 {
+
+public class Find_Second_Largest_Element {
     public static int FindSecondLargest(int anyArr[]){
         if(anyArr.length<2){
             return 0;

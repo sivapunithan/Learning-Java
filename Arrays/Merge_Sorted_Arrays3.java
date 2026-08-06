@@ -1,4 +1,4 @@
-package Arrays;
+
 public class Merge_Sorted_Arrays3 {
     
     public int[] merge_Sorted_Arrays3(int[] nums1, int m, int[] nums2, int n){

@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File6 {
+public class Square_Pattern {
     public static void main(String[] args) {
         int n = 4;
        

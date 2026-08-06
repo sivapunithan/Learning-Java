@@ -1,8 +1,8 @@
-package Day_3;
+
 
 import java.util.ArrayList;
 
-public class File1 {
+public class Filter_Negative_Numbers {
 
     public static int[] GetNegative(int anyArray[]){
       ArrayList<Integer> negative = new ArrayList<>();

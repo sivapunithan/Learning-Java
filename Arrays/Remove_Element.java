@@ -7,7 +7,6 @@
 
 //  consider this a array nums [] = {1, 3,3,6,9,3}
 
-package Arrays;
 
 public class Remove_Element {
     public static int removeElement (int [] nums, int val){

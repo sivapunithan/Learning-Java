@@ -1,6 +1,6 @@
-package Day_6;
+package Math;
 
-public class File15 {
+public class Count_Digits {
     public static void main(String[] args) {
         int count = 0;
         int n=-5678;

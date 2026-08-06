@@ -1,4 +1,4 @@
-package Day_3;
+package SearchAndSorting;
 
 import java.util.Scanner;
 

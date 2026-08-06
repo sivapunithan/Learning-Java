@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File11 {
+public class Star_Triangle_Reverse {
     public static void main(String[] args) {
         int n= 5;
         for(int i=0; i<n; i++){

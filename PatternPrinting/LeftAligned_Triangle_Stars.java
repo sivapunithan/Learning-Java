@@ -1,6 +1,6 @@
-package Day_5;
+package PatternPrinting;
 
-public class File7 {
+public class LeftAligned_Triangle_Stars {
     public static void main(String[] args) {
         int n=5;
        

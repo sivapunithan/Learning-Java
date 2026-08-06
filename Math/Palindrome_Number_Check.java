@@ -1,8 +1,8 @@
-package Day_6;
+package Math;
 
 import java.util.Scanner;
 
-public class File16 {
+public class Palindrome_Number_Check {
 
     public static boolean isPalindrome(int anyNumber){
         anyNumber = Math.abs(anyNumber);
