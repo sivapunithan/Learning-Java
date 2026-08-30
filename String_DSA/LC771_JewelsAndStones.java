@@ -10,6 +10,7 @@ public class LC771_JewelsAndStones {
        -> Iterate the jewels string as the outer loop
           and stones as the innerLoop
        -> if we found the jewels in the stones string increase the counter by one
+       -> Time complexity O(m X n)
      */
     public static int numJewelsInStones(String jewels, String stones){
         int count = 0;
@@ -28,6 +29,10 @@ public class LC771_JewelsAndStones {
         Approach 2
          --> Create a hashset and add the jewels characters onto it
          --> Check the stones character in the hashset
+
+         --> Finding an element inside of a Set is O(n) , very quick
+         --> Here the time complexity becomes o(m + n)
+         --> No nested loops we have sequential loops
          */
 
     public static int numJewelsInStonesOptml(String jewels, String stones){
