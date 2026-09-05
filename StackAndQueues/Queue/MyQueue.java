@@ -19,6 +19,21 @@ public class MyQueue {
         s1.push(x);
     }
 
+    /*
+    Here the data entered into s1, then the stack will be
+         10, 20, 30, 40
+    Insert the data into s2 by popping the data from s1
+         40, 30, 20, 10
+
+    Here we are have to implement the queue, means if s2 is not empty then we can
+    perform the standard stack operation and I can get the pop and peek
+
+    if I pop s2, 10 will be removed and returned
+    then if I do peek it will return me 30
+
+    if s2 is empty then we need to insert the data from s1 to s2
+     */
+
     public int pop(){
         transferIfNeeded();
         return s2.pop();
